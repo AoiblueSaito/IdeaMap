@@ -12,6 +12,8 @@
 		4C743B49220D99550025405F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C743B47220D99550025405F /* Main.storyboard */; };
 		4C743B4B220D995D0025405F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C743B4A220D995D0025405F /* Assets.xcassets */; };
 		4C743B4E220D995D0025405F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C743B4C220D995D0025405F /* LaunchScreen.storyboard */; };
+		4C7A2E992216D91A00E57A8C /* IdeaMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7A2E982216D91900E57A8C /* IdeaMapViewController.swift */; };
+		4C7A2E9B2220168500E57A8C /* IdeaMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7A2E9A2220168500E57A8C /* IdeaMapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		4C743B4A220D995D0025405F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C743B4D220D995D0025405F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C743B4F220D995D0025405F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C7A2E982216D91900E57A8C /* IdeaMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = IdeaMapViewController.swift; path = ../../IdeaMapViewController.swift; sourceTree = "<group>"; };
+		4C7A2E9A2220168500E57A8C /* IdeaMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdeaMapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				4C743B4A220D995D0025405F /* Assets.xcassets */,
 				4C743B4C220D995D0025405F /* LaunchScreen.storyboard */,
 				4C743B4F220D995D0025405F /* Info.plist */,
+				4C7A2E982216D91900E57A8C /* IdeaMapViewController.swift */,
+				4C7A2E9A2220168500E57A8C /* IdeaMapViewController.swift */,
 			);
 			path = IdeaMap;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				4C743B46220D99550025405F /* ViewController.swift in Sources */,
 				4C743B44220D99550025405F /* AppDelegate.swift in Sources */,
+				4C7A2E9B2220168500E57A8C /* IdeaMapViewController.swift in Sources */,
+				4C7A2E992216D91A00E57A8C /* IdeaMapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
